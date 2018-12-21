@@ -1,0 +1,5 @@
+github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
+github.com/dchest/blake256 v1.0.0/go.mod h1:xXNWCE1jsAP8DAjP+rKw2MbeqLczjI3TRx2VK+9OEYY=
+github.com/decred/dcrd/chaincfg/chainhash v1.0.1/go.mod h1:OVfvaOsNLS/A1y4Eod0Ip/Lf8qga7VXCQjUQLbkY0Go=
+github.com/decred/dcrd/dcrec/secp256k1 v1.0.1 h1:EFWVd1p0t0Y5tnsm/dJujgV0ORogRJ6vo7CMAjLseAc=
+github.com/decred/dcrd/dcrec/secp256k1 v1.0.1/go.mod h1:lhu4eZFSfTJWUnR3CFRcpD+Vta0KUAqnhTsTksHXgy0=
