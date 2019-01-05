@@ -28,7 +28,7 @@ import (
 )
 
 func main() {
-	// Public key compressed
+	// Public key, compressed and uncompressed are both supported
 	publicKey, _ := hex.DecodeString("04866269bf6c2d71968ec46797b91b207affeea74dbba1f181ff354abbfbdfe9327c58d1c0681e328f555f5aa6ec2e7543baf2b3f89ce90720d617da710ce1ea93")
 	// Private key Wallet Import Format(WIF): 5KdBypVKceVrUNbWmxDJALGJ9fo9rwNYTjppps8gQb9C8VHUXzr
 	// Transfer to HEX with https://gobittest.appspot.com/PrivateKey
