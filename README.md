@@ -2,7 +2,7 @@
 
 **Encrypt message with bitcoin public key, and decrypt with the corresponding private key**
 
-[Electrum](https://github.com/spesmilo/electrum) and [Electron Cash](https://github.com/Electron-Cash/Electron-Cash) have an implementation under `Tools --> Encrypt/decrypt message`
+[Electrum](https://github.com/spesmilo/electrum), [Electron Cash](https://github.com/Electron-Cash/Electron-Cash) and [ElectrumSV](https://github.com/electrumsv/electrumsv) have an implementation under `Tools --> Encrypt/decrypt message`
 
 ![Imgur](https://i.imgur.com/nshs7qQ.png)
 
