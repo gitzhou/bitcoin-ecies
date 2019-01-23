@@ -6,7 +6,7 @@
 
 ![Imgur](https://i.imgur.com/nshs7qQ.png)
 
-This is a GoLang version of the feature, compatible with Electrum/Electron Cash
+This is a GoLang version of the feature, compatible with Electrum/Electron Cash/ElectrumSV
 
 Node.js version please refer to [monkeylord/electrum-ecies](https://github.com/monkeylord/electrum-ecies)
 
